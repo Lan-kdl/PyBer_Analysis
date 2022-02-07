@@ -16,7 +16,7 @@ I turned these series into a DataFrame using the pd.concat() method.
 
 ![clean_data_frame](https://user-images.githubusercontent.com/95589611/152712074-3388f60e-cb02-44cf-bb77-055ab92bc09d.png)
 
-Code for converting multiple series into a DataFrame came from [StackOverflow](https://stackoverflow.com/questions/39941321/create-dataframe-from-multiple-series)
+Code for converting multiple series into a DataFrame came from [StackOverflow](https://stackoverflow.com/questions/18062135/combining-two-series-into-a-dataframe-in-pandas).
 We then cleaned and formated the DataFrame. The results of this analysis can be seen [here](https://github.com/Lan-kdl/PyBer_Analysis#results). 
 
 I also created a plot from which to view the total weekly fares for each city type. Once again, I used the merged data from [ride_data_csv](https://github.com/Lan-kdl/PyBer_Analysis/blob/main/Resources/ride_data.csv) and [city_data_csv](https://github.com/Lan-kdl/PyBer_Analysis/blob/main/Resources/city_data.csv) to create the multi-line graph. I first calculated the sum of fares for the city type and date. 
