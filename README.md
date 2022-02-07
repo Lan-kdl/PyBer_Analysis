@@ -38,7 +38,7 @@ This is the DataFrame that I used to create the multi-line plot. The results of 
 
 ### PyBer Summary 
 
-![PyBer_Summary_DF](https://user-images.githubusercontent.com/95589611/152712775-4aa5f5a9-b457-4faa-ac9d-fd022831fede.png)
+![Correct_Summary_DF](https://user-images.githubusercontent.com/95589611/152713132-f39f5b38-257b-4339-82d5-467ed831eff4.png)
 
 As can be seen from the summary DataFrame above, Urban cities have both the most riders and drivers out of the three city subtypes. This explains why they have the greatest sum of fares even though they spend the least on ride-sharing per ride. Rural cities have the highest fare per ride and als per driver. Even though Suburban cities have 6x total rides in comparison with Rural which has the least, their fare is only  $3.65 less per ride; Whereas Urban total riders is only 2.6x that of Suburban cities and their fare per ride is $6.44 less Suburban fare per ride. 
 
